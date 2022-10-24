@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b879a4fa-107f-436c-8acf-1480612b4f4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLink.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/getsLinks/getsLinkdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/getsLinks/getsLinkdemo.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GWhhaQlhIgNBLDY9x67HZqW1ZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.getsLinkdemo (2)">
+    <configuration name="getsLinkdemo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getLink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getsLinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getsLinks" />
+      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getsLinkdemo (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getLink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getsLinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getsLinks" />
+      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getsLinkdemo (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getLink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getsLinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getsLinks" />
+      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getsLinkdemo (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getLink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getsLinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getsLinks" />
+      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getsLinkdemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getLink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getsLinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getsLinks" />
+      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.getsLinkdemo (2)" />
+        <item itemvalue="TestNG.getsLinkdemo (5)" />
+        <item itemvalue="TestNG.getsLinkdemo" />
+        <item itemvalue="TestNG.getsLinkdemo (1)" />
+        <item itemvalue="TestNG.getsLinkdemo (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b879a4fa-107f-436c-8acf-1480612b4f4d" name="Default Changelist" comment="" />
+      <created>1666510366607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666510366607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
