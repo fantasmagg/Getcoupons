@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriverService;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -71,19 +72,15 @@ public class getsLinkdemo {
 
 
 
+
             cantidad=cantidad+1;
             System.out.println(cantidad);
         }
 
+    }
+    @AfterClass
+    public void close(){
         driver.quit();
-
-
-
-
-        //
-
-
-
     }
 
 }
