@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b879a4fa-107f-436c-8acf-1480612b4f4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/actions/ManejoDeArchivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/getsLinks/getsLinkdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/getsLinks/getsLinkdemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,13 +27,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="actions" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\getLink\src\test\java\resources" />
     </key>
@@ -47,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.getsLinkdemo (2)">
+  <component name="RunManager" selected="TestNG.getsLinkdemo.alltest">
     <configuration name="getsLinkdemo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="getLink" />
       <extension name="coverage">
@@ -66,23 +72,6 @@
       </method>
     </configuration>
     <configuration name="getsLinkdemo (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="getLink" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="getsLinks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="getsLinks" />
-      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getsLinkdemo (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="getLink" />
       <extension name="coverage">
         <pattern>
@@ -133,13 +122,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="getsLinkdemo.alltest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="getLink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getsLinks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getsLinks" />
+      <option name="MAIN_CLASS_NAME" value="getsLinks.getsLinkdemo" />
+      <option name="METHOD_NAME" value="alltest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.getsLinkdemo.alltest" />
         <item itemvalue="TestNG.getsLinkdemo (2)" />
         <item itemvalue="TestNG.getsLinkdemo (5)" />
         <item itemvalue="TestNG.getsLinkdemo" />
         <item itemvalue="TestNG.getsLinkdemo (1)" />
-        <item itemvalue="TestNG.getsLinkdemo (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,5 +1,6 @@
 package getsLinks;
 
+import actions.ManejoDeArchivos;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -52,7 +53,8 @@ public class getsLinkdemo {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         int cantidad=1;
         String ge="";
-
+        String rutaAndName = "C:\\getLink\\src\\test\\java\\listaCup\\listOfCoupon.txt";
+        ManejoDeArchivos.crearArchivo(rutaAndName);
         while(cantidad <=18){
             if(cantidad==6 || cantidad==16){
                 js.executeScript("window.scrollBy(0,1000)");
@@ -63,6 +65,8 @@ public class getsLinkdemo {
 
                 ge=driver.findElement(By.xpath("//a[contains(text(),'Obtener')]")).getAttribute("href");
 
+
+                ManejoDeArchivos.anexarArchivo(rutaAndName,"\n"+ge);
                 System.out.println(ge);
 
                 driver.navigate().back();
